@@ -1,2 +1,0 @@
-shlibs:Depends=libc6 (>= 2.14), libcurl3 (>= 7.16.2-1), libncurses5 (>= 5.5-5~), libtinfo5, libudev0 (>= 147), libusb-1.0-0 (>= 2:1.0.9~rc3)
-misc:Depends=
