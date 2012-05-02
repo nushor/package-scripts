@@ -1,7 +1,7 @@
 Source: bfgminer
 Priority: optional
 Section: misc
-Maintainer: Con Kolivas <kernel@kolivas.org>
+Maintainer: Luke-Jr <luke-jr+bfgminer@utopios.org>
 Standards-Version: 2.3.6
 Build-Depends: build-essential, libssl-dev, yasm, pkg-config, libudev-dev, libcurl3, curl, libncurses5
 

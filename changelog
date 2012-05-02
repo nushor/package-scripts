@@ -1,5 +1,5 @@
-bfgminer (2.3.6-1) UNRELEASED; urgency=low
+bfgminer (2.3.6-1) RELEASED; urgency=low
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release.
 
- -- nushor <nushor@nushor-desktop>  Tue, 01 May 2012 13:26:09 -0500
+ -- Luke-Jr <luke-jr+bfgminer@utopios.org>  Tue, 01 May 2012 13:26:09 -0500
