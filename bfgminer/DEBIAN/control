@@ -1,0 +1,11 @@
+Package: bfgminer
+Version: 2.3.6-1
+Architecture: amd64
+Maintainer: Con Kolivas <kernel@kolivas.org>
+Installed-Size: 19319
+Depends: libssl-dev (>= 1.0.0), yasm, pkg-config, libudev0, curl (>= 7.0.0), ncurses-bin (>= 5), libncurses5-dev
+Section: misc
+Priority: optional
+Description: This is a multi-threaded multi-pool GPU, FPGA and CPU miner with ATI GPU
+ monitoring, (over)clocking and fanspeed support for bitcoin and derivative
+ coins.
